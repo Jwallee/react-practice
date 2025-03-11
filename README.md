@@ -3,7 +3,7 @@
 Photo Journal is a React-based project where users can store and view their favorite photos.
 
 ---
-![Webpage seen when loading.](public/screenDemo.gif "Webpage Image.")
+![Webpage seen when loading.](my-app/public/screenDemo.gif "Webpage Image.")
 ---
 
 ## Features
